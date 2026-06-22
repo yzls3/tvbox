@@ -1,7 +1,0 @@
-name = "webhtv-remote-cloudflare"
-main = "src/index.js"
-compatibility_date = "2026-06-22"
-
-# 告知这是worker项目，无需静态文件
-[site]
-bucket = "./empty"
